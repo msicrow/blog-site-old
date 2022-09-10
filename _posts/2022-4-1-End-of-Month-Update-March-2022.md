@@ -4,7 +4,7 @@ layout: post
 ---
 Another manic month in the markets.
 
-After global equities inexplicably bounced following the outbreak of war at the end of last month, the realities of a prolonged conflict and its potential effects on inflation set in at the start of March with the Nasdaq entering official bear market territory by the middle of the month. *insert screenshot from Koyfin*
+After global equities inexplicably bounced following the outbreak of war at the end of last month, the realities of a prolonged conflict and its potential effects on inflation set in at the start of March with the Nasdaq entering official bear market territory by the middle of the month.
 
 Since then, despite the continued macro uncertainty, we've seen a significant rebound from the lows, with growth stocks in particular seeing strong gains. Why? On the 16th, the Federal Reserve announced its [first rate increase in 3 years, with 6 more likely to come as the year progresses](https://www.cnbc.com/2022/03/16/federal-reserve-meeting.html). The reaction to the news suggests market participants are now confident that the Fed has a strong plan to tackle out-of-control inflation and there's now marginally less uncertainty on this front (see the interesting links section for a great opinion piece on why that confidence may be misplaced).
 
