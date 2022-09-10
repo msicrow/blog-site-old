@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 #### YTD return vs benchmarks
 *(Index source: Google Finance)*
