@@ -1,5 +1,6 @@
 ---
 published: false
+layout: post
 ---
 Another manic month in the markets.
 
