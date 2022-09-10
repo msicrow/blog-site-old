@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 ---
 Well, that was a rubbish month wasn't it?! Markets have continued to fall over the past month as pressure mounts on the federal reserve to increase the rate at which they increase rates with tech stocks in particular largely falling as a group - often a sure sign that the macro backdrop is cause for the decline rather than information driven by business news/performance.
