@@ -48,8 +48,6 @@ This was the only other significant adjustment in allocation for the month. Thou
 #### Concluding Remarks:
 Well next month can't be any worse, can it...?
 
-![Skywalker Shorts - Dr. Pepper: What's the Worst That Could ...](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FNSFWJkv2vXw%2Fmaxresdefault.jpg&f=1&nofb=1)
-
 In all seriousness though, there's an excerpt from the [excellent interview of David Kim by LibertyRPF](https://www.libertyrpf.com/p/interview-with-david-kim-aka-scuttleblurb-2fb) that summarises my thoughts on the market's chaotic reaction to recent macro events:
 
 > "Wisdom from experienced veterans can often appear trite and simplistic. But I've come to believe that that's often because they're done trying to impress.  They recognize that investing is not about complex theories, superficially applied but rather basic insights, deeply absorbed.  It's that classic Charlie Munger line: 'take a simple idea and take it seriously'".
