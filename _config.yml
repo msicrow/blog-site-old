@@ -11,6 +11,9 @@ description: Learning Through Investing
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/60576444?v=4
 
+# Shared theme
+remote_theme: erlzhang/jekyll-theme-persephone
+
 #
 # Flags below are optional
 #
